@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "547568693605",
+    "project_id": "applibrarygps",
+    "storage_bucket": "applibrarygps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547568693605:android:8771bc10fd5e4d93de718c",
+        "android_client_info": {
+          "package_name": "uni.fmi.bachelors.applibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547568693605-f7bv3c7l0deqjhudp1m0n3jt8l36jpbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtOtVW37CXcllxaEb-5jsmp1Zfm9N_G-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547568693605-f7bv3c7l0deqjhudp1m0n3jt8l36jpbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547568693605:android:60805594c8aa8699de718c",
+        "android_client_info": {
+          "package_name": "uni.fmi.bachelors.booklibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547568693605-f7bv3c7l0deqjhudp1m0n3jt8l36jpbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtOtVW37CXcllxaEb-5jsmp1Zfm9N_G-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547568693605-f7bv3c7l0deqjhudp1m0n3jt8l36jpbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
